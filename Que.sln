@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Que", "Que\Que.csproj", "{520AC0AB-542E-4DC4-A099-CCE42F82EEBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueC", "QueC\QueC.csproj", "{F34B2E36-6674-4842-8D6F-D3DD3B4F6B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{520AC0AB-542E-4DC4-A099-CCE42F82EEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{520AC0AB-542E-4DC4-A099-CCE42F82EEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{520AC0AB-542E-4DC4-A099-CCE42F82EEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34B2E36-6674-4842-8D6F-D3DD3B4F6B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34B2E36-6674-4842-8D6F-D3DD3B4F6B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34B2E36-6674-4842-8D6F-D3DD3B4F6B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34B2E36-6674-4842-8D6F-D3DD3B4F6B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
